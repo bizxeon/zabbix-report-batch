@@ -1,0 +1,3 @@
+zabbix_username: Admin
+zabbix_password: zabbix
+zabbix_url: http://lus-zabbix-test.local
